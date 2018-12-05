@@ -11,7 +11,10 @@ Exit example:
 
 Formato Smooth Streaming
   Manifest:  http://streamingHost.com/multimediav81/plataforma_vod/MP4/201801/WMP4H36648MTCR_full/WMP4H36648MTCR_full_SS.ism/Manifest
+  
   LCDN    : Last-Modified: Fri, 09 Feb 2018 00:07:51 GMT  
+  
   ORIGEN  : Last-Modified: Thu, 22 Mar 2018 00:17:29 GMT
+  
   */It's different the date from LCDN and Origin Server.
    The LCDN streaming  crashes with green macroblocks./*
