@@ -10,6 +10,7 @@ into the curl command you have to use Akamai Pragma Headers
 Exit example:
 
 Formato Smooth Streaming
+
   Manifest:  http://streamingHost.com/multimediav81/plataforma_vod/MP4/201801/WMP4H36648MTCR_full/WMP4H36648MTCR_full_SS.ism/Manifest
   
   LCDN    : Last-Modified: Fri, 09 Feb 2018 00:07:51 GMT  
